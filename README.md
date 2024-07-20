@@ -1,9 +1,9 @@
-<h1 align="center" style="font-family: Arial, sans-serif; color: #4CAF50;">Hi, I'm Praveen Kumar Gunasekaran</h1>
+<h1 align="center" style="font-family: Arial, sans-serif; color:#FF0000; font-weight: bold;">Hi, I'm Praveen Kumar Gunasekaran</h1>
 
 <h3 align="center" style="font-family: Arial, sans-serif; color: #555;">Programmer | Developer | Creator</h3>
 
 <ul style="font-family: Arial, sans-serif; color: #333; line-height: 1.6;">
-  <li>I’m currently a <a href="https://docs.google.com/document/d/e/2PACX-1vT4QwxNh6YjFcStfpBFNJf4FbRg45BrhrLT4-JE2EAXdyBI7mB5UouujkLKMfPeaOhS-YlzNwW0JA8r/pub" style="color: #FF5722;"> Student</a></li>
+  <li>I’m currently a <strong style="color: #FF5722;"> Student</a></li>
   <li>I’m currently learning <strong style="color: #FF5722;">HTML, Python</strong></li>
   <li>I’m currently collaborating on <a href="https://github.com/Praveenguna428/codsoft.git" style="color: #FF5722;"> CodSoft internship</a></li>
   <li>I regularly write articles on <a href="http://craftycodeverse.blogspot.com" style="color: #FF5722;"> Crafty Codeverse Blog</a></li>
