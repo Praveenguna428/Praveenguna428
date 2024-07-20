@@ -8,7 +8,7 @@
   <li>I’m currently collaborating on <a href="https://github.com/Praveenguna428/codsoft.git" style="color: #FF5722;">CodSoft internship</a></li>
   <li>I regularly write articles on <a href="http://craftycodeverse.blogspot.com" style="color: #FF5722;">Crafty Codeverse Blog</a></li>
   <li>Ask me about <strong style="color: #FF5722;">SQL, Python, HTML</strong></li>
-  <li>How to reach me: <strong style="color: #FF5722;">praveenguna428@gmail.com</strong></li>
+  <li>How to reach me:<a href="praveenguna428@gmail.com" style="color: #FF5722;">praveenguna@gmail.com</a></li>
   <li>More about me: <a href="https://docs.google.com/document/d/e/2PACX-1vT4QwxNh6YjFcStfpBFNJf4FbRg45BrhrLT4-JE2EAXdyBI7mB5UouujkLKMfPeaOhS-YlzNwW0JA8r/pub" style="color: #FF5722;">Resume</a></li>
   <li>Fun fact: <strong style="color: #FF5722;">I write code like I write jokes—sometimes it works, sometimes it doesn’t, but I always learn something new!</strong></li>
 </ul>
