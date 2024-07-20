@@ -1,6 +1,6 @@
-<h1 align="center" style="font-family: Arial, sans-serif; color:#FF0000; font-weight: bold;">Hi, I'm Praveen Kumar Gunasekaran</h1>
+<h1 align="center" style="font-family: Humanist Sans-Serif, Monospace; color:#555"; font-weight: bold;">Hi, I'm Praveen Kumar Gunasekaran</h1>
 
-<h3 align="center" style="font-family: Arial, sans-serif; color: #555;">Programmer | Developer | Creator</h3>
+<h3 align="center" style="font-family: Arial,  Monospace; color: #555;">Programmer | Developer | Creator</h3>
 
 <ul style="font-family: Arial, sans-serif; color: #333; line-height: 1.6;">
   <li>I’m currently a <strong style="color: #FF5722;"> Student</a></li>
