@@ -1,5 +1,6 @@
-<h1></h1>
 <h1 align="center" style="font-family: Humanist Sans-Serif, Monospace; color:#555;" font-weight: bold;">Hi, I'm Praveen Kumar Gunasekaran</h1>
+<h1 align="center"> <img src="https://4kwallpapers.com/images/walls/thumbs_3t/13668.png" alt="html" width="1000" height="400"/></h1>
+
 
 <h3 align="center" style="font-family: Arial,  Monospace; color: #555;">Programmer | Developer | Creator</h3>
 
