@@ -29,7 +29,7 @@
 
 <h3 align="left" style="font-family: Arial, sans-serif; color: #4CAF50;">Languages and Tools:</h3>
 <p align="left">
-    <img src="https://www.p92.hu/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png" alt="html" width="320" height="150"/>
+    <img src="https://www.p92.hu/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png" alt="html" width="390" height="150"/>
   </a>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="100" height="200"/></h1> 
   </a>
@@ -47,13 +47,15 @@
 <h1></h1>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenguna428&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin: 20px 0;" />
+  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=praveenguna428&show_icons=true&locale=en" alt="GitHub Stats" style="margin: 20px 0;" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenguna428&" alt="GitHub Streak" style="margin: 20px 0;" />
 </p>
-<h1></h1>
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenguna428&show_icons=true&locale=en" alt="GitHub Stats" style="margin: 20px 0;" />
-</p>
-<h1></h1>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenguna428&" alt="GitHub Streak" style="margin: 20px 0;" />
-</p>
+
+  [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+  <p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenguna428&show_icons=true&locale=en&layout=compact" alt="Top Languages"  width="1000"height="400";"/>
+
+
+<h1></h1></p>
+
