@@ -29,22 +29,17 @@
 
 <h3 align="left" style="font-family: Arial, sans-serif; color: #4CAF50;">Languages and Tools:</h3>
 <p align="left">
-    <img src="https://www.p92.hu/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png" alt="html" width="390" height="150"/>
+    <img align="left" src="https://www.p92.hu/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png" alt="html" width="390" height="150"/>
   </a>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="100" height="200"/></h1> 
   </a>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="100" height="200"/>
   </a>
-    <img src="https://png.pngtree.com/png-vector/20190412/ourmid/pngtree-sql-file-document-icon-png-image_929360.png" alt="SQL" width="150" height="190"/>
+    <img align="left" src="https://png.pngtree.com/png-vector/20190412/ourmid/pngtree-sql-file-document-icon-png-image_929360.png" alt="SQL" width="140" height="190"/>
   </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="180" height="200"/>
+       <img align="right" src="https://cdn.pixabay.com/photo/2023/07/26/14/19/pycharm-8151316_1280.png" alt=" pycharm" width="150" height="190"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80"height="0"/>
-  </a>
-</p>
-<h1></h1>
+</p><h1></h1>
 
 <p>
   &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=praveenguna428&show_icons=true&locale=en" alt="GitHub Stats" style="margin: 20px 0;" />
