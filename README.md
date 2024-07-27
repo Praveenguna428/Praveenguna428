@@ -50,9 +50,6 @@
   &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=praveenguna428&show_icons=true&locale=en" alt="GitHub Stats" style="margin: 20px 0;" />
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenguna428&" alt="GitHub Streak" style="margin: 20px 0;" />
 </p>
-
-  [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
   <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenguna428&show_icons=true&locale=en&layout=compact" alt="Top Languages"  width="1000"height="400";"/>
 
