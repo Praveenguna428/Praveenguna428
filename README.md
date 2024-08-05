@@ -25,7 +25,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="80" width="110" />
   </a>
 </p>
-<h1></h1>
 
 <h3 align="left" style="font-family: Arial, sans-serif; color: #4CAF50;">Languages and Tools:</h3>
 <p align="left">
