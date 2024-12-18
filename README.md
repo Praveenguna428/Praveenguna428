@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenguna428&label=Profile%20views&color=0e75b6&style=flat" alt="praveenguna428" /> </p>
 
-- I’m currently [Student](https://docs.google.com/document/d/e/2PACX-1vT4QwxNh6YjFcStfpBFNJf4FbRg45BrhrLT4-JE2EAXdyBI7mB5UouujkLKMfPeaOhS-YlzNwW0JA8r/pub)
+- I’m currently [Student](https://praveenguna428.github.io/blog_about-us-page/)
 
 - I’m currently learning **html, python,**
 
