@@ -16,7 +16,9 @@
 
 - Ask me about **SQL, python**
 
-- How to [Mail me](mailto:praveenguna428@gmail.com) 
+- How to [Mail me](mailto:praveenguna428@gmail.com)
+
+- To [Contact us](https://praveenguna428.github.io/contact-us-form/) 
 
 - Know about my experiences [My Resume](https://docs.google.com/document/d/e/2PACX-1vT4QwxNh6YjFcStfpBFNJf4FbRg45BrhrLT4-JE2EAXdyBI7mB5UouujkLKMfPeaOhS-YlzNwW0JA8r/pub)
 
@@ -33,9 +35,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://praveenguna428.github.io/contact-us-form/"> <img align="left" src=" https://static.vecteezy.com/system/resources/previews/009/380/008/non_2x/contact-us-buttons-clipart-design-illustration-free-png.png" height="50" width="210" alt="https://praveenguna428.github.io/contact-us-form/" /></a></p><br><br>
-<a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenguna428&show_icons=true&locale=en&layout=compact" alt="praveenguna428" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenguna428&show_icons=true&locale=en" alt="praveenguna428" /></p>
