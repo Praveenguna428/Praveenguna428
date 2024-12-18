@@ -4,8 +4,6 @@
 <h1 align="center">Hi, I'm Praveen Kumar Gunasekaran</h1>
 <h3 align="center">Aspiring programmer | Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenguna428&label=Profile%20views&color=0e75b6&style=flat" alt="praveenguna428" /> </p>
-
 - I’m currently [Student](https://praveenguna428.github.io/blog_about-us-page/)
 
 - I’m currently learning **html, python,**
