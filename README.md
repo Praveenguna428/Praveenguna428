@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Praveen Kumar Gunasekaran</h1>
 <h3 align="center">Aspiring programmer | Developer</h3>
 
-- I’m currently [Student](https://praveenguna428.github.io/blog_about-us-page/)
+- I’m currently [Student](https://praveenguna428.github.io/praveen-kumar_-portfolio-card/)
 
 - I’m currently learning **html, python,**
 
