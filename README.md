@@ -10,15 +10,13 @@
 
 - I regularly write articles on [My Blog site](http://craftycodeverse.blogspot.com)
 
-- To Visit [My projects](https://craftycodeverse.blogspot.com/p/projects.html)
+- To Visit [My projects]( https://praveenguna428.github.io/Digital-Hub-Management-Landing-Page/)
 
 - Ask me about **SQL, python**
 
 - How to [Mail me](mailto:praveenguna428@gmail.com)
 
 - To [Contact us](https://praveenguna428.github.io/contact-us-form/) 
-
-- Know about my experiences [My Resume](https://docs.google.com/document/d/e/2PACX-1vT4QwxNh6YjFcStfpBFNJf4FbRg45BrhrLT4-JE2EAXdyBI7mB5UouujkLKMfPeaOhS-YlzNwW0JA8r/pub)
 
 - Fun fact **I write code like I write jokes—sometimes it works, sometimes it doesn’t, but I always learn something new!**
 
