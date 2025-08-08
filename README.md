@@ -1,8 +1,8 @@
-<h1 align="center" style="font-family: Humanist Sans-Serif, Monospace; color:#555;" font-weight: bold;">Hi, I'm Praveen Kumar Gunasekaran</h1>
-<h1 align="center"> <img src="https://www.canva.com/design/DAGvfhYRh94/w0FL9x4Au9R18Wpl2lXdRg/edit?utm_content=DAGvfhYRh94&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="html" width="1000" height="400"/></h1>
+
+<h1 align="center"> <img src="https://github.com/Praveenguna428/img-hub/blob/main/github%20banner-%20Code.%20Create.%20Collaborate.%20(1).png?raw=true" alt="html" width="1000" height="400"/></h1>
 
 <h1 align="center">Hi, I'm Praveen Kumar Gunasekaran</h1>
-<h3 align="center">Aspiring programmer | Developer</h3>
+
 
 - I’m currently [Student](https://praveenguna428.github.io/praveen-kumar_-portfolio-card/)
 
