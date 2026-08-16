@@ -65,6 +65,9 @@
   <a href="https://www.youtube.com/@Praveen.Kumar2020">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
+     <a href="https://www.instagram.com/praveen_py_dev/?hl=en">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <a href="https://bsky.app/profile/praveendevops.bsky.social">
     <img src="https://img.shields.io/badge/Bluesky-1185FE?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
   </a>
