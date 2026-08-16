@@ -1,37 +1,92 @@
+<!--
+  👑 Praveen Kumar G · Cloud Coder
+  GitHub Profile README – fully compatible with GitHub markdown.
+  Icons via shields.io and simple emojis.
+-->
 
-<h1 align="center"> <img src="https://github.com/Praveenguna428/img-hub/blob/main/github%20banner-%20Code.%20Create.%20Collaborate.%20(1).png?raw=true" alt="html" width="1000" height="400"/></h1>
-
-<h1 align="center">Hi, I'm Praveen Kumar Gunasekaran</h1>
-
-
-- I’m currently [Student](https://praveenguna428.github.io/praveen-kumar_-portfolio-card/)
-
-- I’m currently learning **html, python,**
-
-- I regularly write articles on [My Blog site](http://craftycodeverse.blogspot.com)
-
-- To Visit [My projects]( https://praveenguna428.github.io/Digital-Hub-Management-Landing-Page/)
-
-- Ask me about **SQL, python**
-
-- How to [Mail me](mailto:praveenguna428@gmail.com)
-
-- To [Contact us](https://praveenguna428.github.io/contact-us-form/) 
-
-- Fun fact **I write code like I write jokes—sometimes it works, sometimes it doesn’t, but I always learn something new!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/praveenguna2020?t=f9qmweu28eycqzoo9uu3fa&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/praveenguna2020?t=f9qmweu28eycqzoo9uu3fa&s=09" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/praveen-kumar-pk2020/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/praveen-kumar-pk2020" height="30" width="40" /></a>
-<a href="https://www.instagram.com/praveen_py_dev/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/praveen_py_dev/?hl=en" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=C9A84C&center=true&vCenter=true&width=500&lines=Cloud+Administrator+%40+Wipro;MCA+%40+Madras+University;Code+%26+Cloud+Enthusiast" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- Banner with ASCII / icons -->
+<p align="center">
+  <code>☁️  🖥️  ⚙️  🌐  🔧</code>
+  <br />
+  <i>“Code is my compass, the cloud is my canvas.”</i>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenguna428&show_icons=true&locale=en&layout=compact" alt="praveenguna428" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenguna428&show_icons=true&locale=en" alt="praveenguna428" /></p>
+### 👨‍💻 **Praveen Kumar G**  
+**Cloud Administrator @ Wipro** · MCA (pursuing) @ Madras University  
+📍 Chennai, Tamil Nadu, India · 📞 +91 89395 16545  
+📧 [praveenguna428@gmail.com](mailto:praveenguna428@gmail.com)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenguna428&" alt="praveenguna428" /></p></a>
+---
+
+### 📖 **Summary**
+
+> Navigating the cloud infrastructure with precision. As a Cloud Administrator at Wipro's CMDC, I orchestrate robust solutions while pursuing my MCA at Madras University. I blend the art of coding with the science of networking — turning complexity into elegance.  
+> **Joint Secretary** · Skill Elevation Club 👑
+
+---
+
+### 🛠️ **Core Skills**
+
+| **DevOps & Networking** | **Programming** |
+|:-------------------------|:----------------|
+| <ul><li>DevOps</li><li>Networking (IP config, OS admin: Windows/Mac/Linux, DNS, Remote Desktop)</li><li>Git & GitHub</li><li>PL/SQL</li></ul> | <ul><li>🐍 Python</li><li>☕ Java</li><li>⚙️ C</li><li>⚙️ C++</li></ul> |
+
+---
+
+### 💼 **Experience**
+
+| **Role** | **Company** | **Duration** | **Details** |
+|:---------|:------------|:-------------|:------------|
+| Cloud Administrator | **Wipro** | Jun 2026 – Present | Coimbatore · Cloud infrastructure management, support & automation |
+| Full Stack Developer (Intern) | **Info Tech Academy** | Jan 2025 – Mar 2025 | Chennai · Python, web apps, frontend/backend, software creation |
+
+---
+
+### 🎓 **Education**
+
+| **Degree / Program** | **Institution** | **Year** |
+|:---------------------|:----------------|:---------|
+| MCA (pursuing) | University of Madras | Jul 2026 – Jun 2028 |
+| B.Sc. Computer Science | S. A. College of Arts & Science | Aug 2022 – Apr 2025 |
+
+---
+
+### 🔗 **Connect with me**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/praveen-kumar-pk2020">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@Praveen.Kumar2020">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Bluesky-1185FE?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Orchestrating clouds, one commit at a time.”</i>  
+  <br />
+  <sup>© 2026 Praveen Kumar · all rights reserved</sup>
+</p>
