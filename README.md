@@ -1,16 +1,15 @@
 <!--
-  👑 Praveen Kumar G · Cloud Coder
+   Praveen Kumar G · Cloud Coder
   GitHub Profile README – fully compatible with GitHub markdown.
   Icons via shields.io and simple emojis.
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=C9A84C&center=true&vCenter=true&width=500&lines=Cloud+Administrator+%40+Wipro;MCA+%40+Madras+University;Code+%26+Cloud+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00CC44&center=true&vCenter=true&width=800&lines=CDC+administrator+%40+wipro;MCA+%40+University+of+Madras;B.Sc.+Computer+Science+Graduate;DevOps+and+Administrator" alt="Typing SVG" />
 </p>
 
 <!-- Banner with ASCII / icons -->
 <p align="center">
-  <code>☁️  🖥️  ⚙️  🌐  🔧</code>
   <br />
   <i>“Code is my compass, the cloud is my canvas.”</i>
 </p>
