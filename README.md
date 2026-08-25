@@ -82,6 +82,9 @@
   <a href="https://www.reddit.com/user/praveendevops/">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
+     <a href="x.com/praveenguna2020">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
   <a href="https://discord.gg/Zh9WZNJmG">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
