@@ -26,7 +26,7 @@
 ### 📖 **Summary**
 
 > Navigating the cloud infrastructure with precision. As a Cloud Administrator at Wipro's CMDC, I orchestrate robust solutions while pursuing my MCA at Madras University. I blend the art of coding with the science of networking — turning complexity into elegance.  
-> **Joint Secretary** · Skill Elevation Club 👑
+>
 
 ---
 
