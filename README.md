@@ -32,9 +32,17 @@
 
 ### 🛠️ **Core Skills**
 
+<p align="center"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" alt="Coding GIF"/> </p>
+
 | **DevOps & Networking** | **Programming** |
 |:-------------------------|:----------------|
 | <ul><li>DevOps</li><li>Networking (IP config, OS admin: Windows/Mac/Linux, DNS, Remote Desktop)</li><li>Git & GitHub</li><li>PL/SQL</li></ul> | <ul><li>🐍 Python</li><li>☕ Java</li><li>⚙️ C</li><li>⚙️ C++</li></ul> |
+
+---
+
+### 🛠️ **Technologies**
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=pycharm,git,github,vscode,idea," alt="Technologies"/> </p>
 
 ---
 
@@ -83,6 +91,10 @@
 </p>
 
 ---
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Praveen+Kumar+G;Devops+Learner;Cloud+%26+Infrastructure+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG"/> </p>
+
+<p align="center"> ☕ <b>Code. Learn. Practice. Build. Repeat.</b> 🚀 </p>
 
 <p align="center">
   <i>“Orchestrating clouds, one commit at a time.”</i>  
